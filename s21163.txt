@@ -1,0 +1,8 @@
+20191117
+Zajęcia nr 4  UKOS
+Na dzisiejszych zajęciach nauczyłem się:
+ -jak utworzyć lokalnego hosta
+ -jak wygenerować klusz ssh
+ -jak używać ssh agent
+ -i jak to ułatwia życie
+~                          
